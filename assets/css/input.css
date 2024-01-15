@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000000;
+  opacity: 1;
+  background-image: radial-gradient(#d13bfc 0.15px, #000000 0.75px);
+  background-size: 15px 15px;
+}
